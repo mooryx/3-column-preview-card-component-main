@@ -1,0 +1,48 @@
+body{
+font-size:  15px;
+background-color: hsl(0, 0%, 95%);
+}
+h1{
+color: hsla(0, 0%, 100%, 0.75);
+margin-bottom: 4rem;
+font-family: 'Big Shoulders Display', cursive;
+
+}
+h4{
+
+}
+p{
+color: hsla(0, 0%, 100%, 0.75);
+}
+button{
+  margin-top: 5rem;
+}
+.container{
+
+
+}
+.row{
+  margin: 3rem 5rem 0 5rem;
+  border-radius: 6px;
+}
+
+.cards{
+
+height: 30rem;
+
+padding: 4% 5% 0 5% ;
+}
+
+
+
+#sedans{
+  background-color: hsl(31, 77%, 52%);
+}
+#suvs{
+  background-color:  hsl(184, 100%, 22%);
+
+}
+#luxury{
+  background-color: hsl(179, 100%, 13%);
+
+}
